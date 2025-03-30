@@ -1,3 +1,5 @@
+<h1> 🖥️ My Tech Stack</h1>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -26,7 +28,7 @@
 
 ###
 
-<p align="center">Hi, my name is Anton.</p>
+<h2 align="center">Hello World!, I'm Anton, a Russian Web Developer💫</h2>
 
 ###
 
