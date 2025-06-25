@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">Hello World!, I'm Anton, a Russian Web Developer💫</h2>
+<h2 align="center">Hello World!, I'm Anton, a Russian Developer💫</h2>
 
 ###
 
