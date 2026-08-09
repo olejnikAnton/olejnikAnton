@@ -1,74 +1,84 @@
-<p align="right">
-  <b>Language:</b> 
-  <a href="#-russian">Русский</a> | 
-  <a href="#-english">English</a>
-</p>
+<div align="center">
 
-<a name="-russian"></a>
-# 👋 Привет, я Антон Олейник
+# ANTON OLEYNIK
 
-Аналитик данных с профильной базой и сильным интересом к автоматизации процессов. Обладаю академическим бэкграундом в IT, сейчас активно углубляю практические навыки в SQL, Python и анализе данных. Ищу позицию **Data / IT Analyst (Intern / Junior)**.
+`DATA ANALYST · IT · AUTOMATION`
 
-- 🎯 **Фокус:** Построение понятной аналитики, оптимизация SQL-запросов и автоматизация рутинных задач.
-- ⚡ **В процессе:** Активно наполняю профиль ответами на практические задачи и PET-проектами.
+**Telegram:** [@sqril](https://t.me/sqril)
+**Email:** [olejnik.anton05@gmail.com](mailto:olejnik.anton05@gmail.com)
+
+</div>
 
 ---
 
-### 🛠 Стек и инструменты
+## / PROFILE
 
-**Анализ данных и БД:**
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%7C%20Seaborn-11557c?style=flat-square)
+**RU**
 
-**Окружение и инструмент:**
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git&logoColor=white)
+Начинающий аналитик данных с базой в программировании и интересом к автоматизации процессов.
 
----
+Сейчас развиваюсь в направлении **Data / IT Analysis**, углубляю практические навыки работы с **SQL, Python и базами данных**, решаю практические задачи и собираю портфолио.
 
-### 📌 Проекты (In Progress)
+**Ищу:** `Data Analyst / IT Analyst — Intern / Junior`
 
-> *В данный момент я упаковываю и выкладываю свои проекты. Скоро здесь появятся детальные разборы.*
-
-* **[E-Commerce Cohort & RFM Analysis](./)**  
-  Когортный анализ удержания клиентов (Retention) и сегментация аудитории на чистом SQL (CTE, оконные функции).
-* **[Automated Data Pipeline](./)**  
-  Скрипты на Python для автоматической очистки данных и парсинга.
+**Фокус:** аналитика данных · SQL · автоматизация · базы данных · практические проекты
 
 ---
 
-### 📬 Контакты
+**EN**
 
-* **Telegram:** [@sqril](https://t.me/sqril)
-* **Email:** [olejnik.anton05@gmail.com](mailto:olejnik.anton05@gmail.com)
+Junior Data Analyst with a software development background and a strong interest in data analysis and process automation.
 
----
+Currently focusing on **SQL, Python, databases and practical data analysis**, while building a portfolio through real-world tasks and projects.
 
-<a name="-english"></a>
-# 👋 Hi, I'm Anton Oleynik
+**Looking for:** `Data Analyst / IT Analyst — Intern / Junior`
 
-Data Analyst with a foundational CS background and a strong interest in process automation. Re-engaging deeply into data science and software engineering, actively refining practical skills in SQL, Python, and data pipelines. Looking for a **Data / IT Analyst (Intern / Junior)** role.
-
-- 🎯 **Focus:** Building clear analytics, optimizing SQL queries, and automating routine workflows.
-- ⚡ **Current State:** Active portfolio building and finalizing real-world analytical projects.
+**Focus:** data analysis · SQL · automation · databases · practical projects
 
 ---
 
-### 🛠 Tech Stack
+## / STACK
 
-**Data & Databases:**
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%7C%20Seaborn-11557c?style=flat-square)
+### DATA
 
-**Environment & Tools:**
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square\&logo=mysql\&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=flat-square\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-111111?style=flat-square\&logo=seaborn\&logoColor=white)
+
+### DEVELOPMENT
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=next.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square\&logo=node.js\&logoColor=white)
+
+### TOOLS
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
-### 📬 Get in Touch
+## / EDUCATION
 
-* **Telegram:** [@sqril](https://t.me/sqril)
-* **Email:** [olejnik.anton05@gmail.com](mailto:olejnik.anton05@gmail.com)
+**Череповецкий металлургический колледж**
+
+Information Systems and Programming
+
+`2022 — 2026`
+
+---
+
+<div align="center">
+
+`ANTON OLEYNIK / 2026`
+
+</div>
